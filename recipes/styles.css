@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color:bisque;
+}
+
+h1 {
+    color:snow;
+    background-color:#8697a8;
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    background-color:cadetblue;
+}
+
+ol {
+    background-color: lightsalmon;
+}
+
+li {
+    background-color: linen;
+    padding: 5px;
+}
+
+li a {
+    color:darkslategray;
+}
